@@ -1,5 +1,5 @@
 _repo: History-of-the-Harvard-College-Observatory-During-the-Period-1840-1890_59633
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Pickering, Edward C. (Edward Charles)
@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '6174'
     url: http://www.gutenberg.org/2009/agents/6174
     wikipedia: http://en.wikipedia.org/wiki/Edward_Charles_Pickering
+covers:
+- cover_type: archival
+  image_path: 59633-h/images/cover.jpg
 creator:
   author:
     agent_name: Baker, Daniel W.
     gutenberg_agent_id: '50541'
     url: http://www.gutenberg.org/2009/agents/50541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59633#History-of-the-Harvard-College-Observatory-During-the-Period-1840-1890
 gutenberg_issued: '2019-05-30'
 gutenberg_type: Text
 identifiers:
